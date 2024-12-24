@@ -4,7 +4,7 @@
 
 ⚙️ My expertise in Laravel enables me to build robust and scalable web applications, while my proficiency in NestJS ensures efficient and performant back-end systems. I am highly skilled in managing databases using both MySQL and MongoDB, which enables me to handle and retrieve data with the utmost efficiency. I possess a high level of proficiency in creating unit tests through the use of Jest.
 
-🚀 I also create dynamic and interactive user interfaces using Nuxt.js and Next.js, providing a seamless user experience. Furthermore, I demonstrated proficiency in SvelteKit and Qwik, allowing me to create lightweight and optimized web applications.
+🚀 I also create dynamic and interactive user interfaces using Nuxt.js and Next.js, providing a seamless user experience. Furthermore, I demonstrated proficiency in SvelteKit, allowing me to create lightweight and optimized web applications.
 
 ☁️ I am also proficient in Docker containerization, which streamlines development and deployment processes. Moreover, my extensive understanding of Linux and Git ensures smooth server management and version control.
 
